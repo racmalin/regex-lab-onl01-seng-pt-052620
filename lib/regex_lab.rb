@@ -22,7 +22,7 @@ text.match(/\A[A-Z]\w*\W\b/) != nil
 end
 
 first_word_capitalized_and_ends_with_punctuation?("I stepped on a Corn Flake, now I'm a cereal killer.")
-end
+
 
 
 
